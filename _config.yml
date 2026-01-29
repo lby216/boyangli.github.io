@@ -1,25 +1,2 @@
-# Boyang Li – Data Science Portfolio
-
-## About Me
-I am a junior undergraduate student studying Data Science. This portfolio highlights selected projects from my DATA 498 coursework, with a focus on data analysis, statistics, and reproducible research. It will continue to be updated as I complete additional projects throughout the semester.
-
-## Skills
-- Python
-- R
-- SQL
-- Data Visualization
-- Statistical Analysis
-- Git & GitHub
-
-## Projects
-
-### Project 1: Course Data Analysis Project
-- Analyzed real-world datasets using statistical and computational methods
-- Conducted data cleaning, exploratory data analysis, and visualization
-- Summarized findings in a clear and reproducible format using code and documentation
-
-(More projects will be added as the semester progresses.)
-
-## Contact
-- GitHub: https://github.com/lby216/boyangli.github.io
-- Email: 3358397408@qq.com
+title: Boyang Li – Data Science Portfolio
+theme: jekyll-theme-minimal
